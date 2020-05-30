@@ -1,0 +1,21 @@
+.env
+env\
+.env\
+
+# Node modules
+node_modules/
+yarn.lock
+npm-debug.log
+
+# SQLite3 database
+*.sqlite
+
+# Python compiled byte code
+*.pyc
+
+# IDEs
+.project
+.pydevproject
+.idea
+.vscode
+.settings
